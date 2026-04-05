@@ -1,0 +1,103 @@
+section {
+    margin-bottom: 100px;
+
+}
+
+.custome-a1 {
+    background: url(../images/pcbg.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 400px;
+}
+
+.textsw {
+    background: rgba(0, 0, 0, 0.644);
+    font-weight: 700 !important;
+    letter-spacing: 2px;
+}
+
+.textsw h1 {
+    font-size: 68px;
+}
+
+.aboutimag {
+    background: url(https://scontent.fdac5-2.fna.fbcdn.net/v/t39.30808-6/645763116_1230357465836972_1352121992559937725_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=7b2446&_nc_ohc=azQ8KQ4f1AAQ7kNvwHTncdK&_nc_oc=Adpztcf530nH1abz-HsPpJRPbS2O9NpyNPJutx3xxTEYSmJwcFm-l3BYPLG6pJUlrCM&_nc_zt=23&_nc_ht=scontent.fdac5-2.fna&_nc_gid=Nu3JnAt0DvuwvVtW388g4Q&_nc_ss=7a389&oh=00_Af3JAQzAdw2FUtwLBrGf0n9YCHzPMCLDmZ_JIupLTPyxoA&oe=69D7FC15);
+    background-position: center;
+    background-size: cover;
+    max-width: 500px;
+    height: 500px;
+    border-radius: 24px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+}
+
+.custom-imagersss {
+    max-width: 200px;
+    height: 200px;
+    border-radius: 24px;
+    /* background: red; */
+    overflow: hidden;
+    display: flex;
+    justify-content: center !important;
+    align-items: center !important;
+}
+
+.custom-imagersss img {
+    max-width: 100px;
+}
+
+.custom-imagersss:hover img {
+    transform: scale(1.1);
+    transition: all 0.4s ease;
+}
+
+.custom-re {
+    margin-bottom: 50px;
+}
+
+.imagee {
+    height: 300px;
+    width: 300px;
+    overflow: hidden;
+}
+
+.imagee img {
+    height: 300px;
+    width: 300px;
+}
+
+.contact {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+.custome-vf:hover {
+    box-shadow: 5px 10px 15px rgba(0, 0, 0, 0.3);
+    transition: all ease 0.5s;
+}
+
+.full {
+    max-width: 95%;
+}
+
+.full2 {
+    max-width: 85%;
+}
+
+.full3 {
+    max-width: 90%;
+}
+
+.custome-ll:hover {
+    transform: scale(0.99);
+    transition: ease-out 0.5;
+    box-shadow: 5px 10px 15px rgba(0, 0, 0, 0.3);
+
+}
+
+.custome-ll:hover div {
+    color: blue;
+}
