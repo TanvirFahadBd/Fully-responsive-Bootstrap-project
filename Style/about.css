@@ -93,7 +93,7 @@ section {
 
 .custome-ll:hover {
     transform: scale(0.99);
-    transition: ease-out 0.5;
+    transition: all ease 0.5s;
     box-shadow: 5px 10px 15px rgba(0, 0, 0, 0.3);
 
 }
