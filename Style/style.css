@@ -1,0 +1,77 @@
+.custom-carousel {
+    /* width: 1320px; */
+    background: url(../images/motherboard.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 400px;
+    overflow: hidden;
+}
+
+.custom-carousel2 {
+    /* width: 1320px; */
+    background: url(../images/coding.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 400px;
+    overflow: hidden;
+}
+
+.custom-carousel3 {
+    /* width: 1320px; */
+    background: url(../images/computer.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 400px;
+    overflow: hidden;
+}
+
+.custome-profileImage {
+    overflow: hidden;
+}
+
+.section1 {
+    margin-bottom: 100px;
+    margin-top: 100px;
+}
+
+.custom-cadr1:hover {
+    transform: translate(0px, -10px);
+    transition: all 0.5s ease;
+    background: rgba(0, 0, 255, 0.205);
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+.custom-cadr1:hover h1 {
+    color: rgb(183, 0, 255);
+}
+
+.secondsection {
+    margin-bottom: 100px;
+}
+
+.section3{
+    margin-bottom: 100px;
+}
+
+.custom-card11 {
+    border-radius: 20px !important;
+}
+
+.custom-card11:hover {
+    transition: all 0.5s ease;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+
+}
+
+.custom-card11:hover .custom-bbbf {
+     transition: all 0.5s ease;
+    color: green !important;
+
+}
+
+.feedbackSection{
+    margin-bottom: 100px;
+}
